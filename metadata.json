@@ -1,0 +1,8 @@
+{
+  "name": "The One Builders",
+  "description": "Premium industrial e-commerce marketplace for Electrical, Plumbing, Hardware, Tools, Construction Materials, and Safety Equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
